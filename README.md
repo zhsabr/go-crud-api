@@ -19,7 +19,7 @@ Simple CRUD API
      {
         "ID": "1",
         "isbn": "28000",
-        "title": "Movie #1 SHESHES",
+        "title": "Movie #1",
         "director": {
             "firstname": "Walter",
             "lastname": "White"
